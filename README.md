@@ -1,6 +1,6 @@
 # Project Title: Risk Return Analysis
 
-This is a Jupyter notebook that contains the code for the data prepartion, analysis, and visualizations for key risk and return metrics.
+This is a Jupyter notebook that contains the code for the data preparation, analysis, and visualizations for key risk and return metrics.
 
 Datasets:
 whale_navs.csv
